@@ -33,7 +33,7 @@ const Hero = () => {
             />
 
             <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-                HI, I&apos;'m Arya!, a web developer based in India
+                HI, I&apos;m Arya!, a web developer based in India
             </p>
 
             <a href="#about">
